@@ -1,15 +1,1 @@
-<!-- templates/home.html -->
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>RP Flask REST API</title>
-</head>
-<body>
-    <h1>
-        Hello, Radha Rani Ji Kripya Banaye Rakhna! 
-        Jai Shree Krishna Ji Apni kripa barsaye Rehna ji!
-    </h1>
-</body>
-</html>
